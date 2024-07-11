@@ -1,0 +1,17 @@
+h1{
+    color:rebeccapurple;
+    background-color: brown;
+
+}
+
+strong{
+    background-color: blue;
+    color: red;
+}
+body{
+    background: url("strawhats.jpg");
+    background-repeat: no-repeat;
+}
+.special-heading{
+    color: chocolate;
+}
